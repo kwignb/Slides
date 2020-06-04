@@ -3,3 +3,9 @@ layout : top-left
 
 # Displaying the number of pages
 slide-number: true
+
+# Override the CSS styles
+theme-override : assets/css/PITCHME.css
+
+# How to transition pages
+transition : fade
