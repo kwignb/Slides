@@ -1,0 +1,5 @@
+# Settings of layout
+layout : top-left
+
+# Displaying the number of pages
+slide-number: true
